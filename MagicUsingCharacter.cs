@@ -16,7 +16,7 @@ namespace Lab_5_1
 
         public override string Play()
         {
-            return $"{Name} - (intelligence: {Intelligence} , strength: {Strength}, magical energy: { magicalEnergy})";
+            return $"{Name} (intelligence: {Intelligence} , strength: {Strength}, magical energy: { magicalEnergy})";
             
         }
     }
